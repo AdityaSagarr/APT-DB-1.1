@@ -1,0 +1,1924 @@
+{
+    "questions": [
+        {
+            "id": "M.1.5.S.1",
+            "type": "MCQuestion",
+            "text": "53824 ? =",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "202",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "232",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "242",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "332",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.2",
+            "type": "MCQuestion",
+            "text": "The square root of 41209 is equal to",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "L.I.C.A.D.O., 2008",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "103",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "203",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "303",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "403",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.3",
+            "type": "MCQuestion",
+            "text": "The square root of 123454321 is",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "P.C.S., 2008",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "111111",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "12341",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "11111",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "11211",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.4",
+            "type": "MCQuestion",
+            "text": "The number of digits in the square root of 625685746009 is",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "S.S.C., 2007",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "4",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "5",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "6",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "7",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.5",
+            "type": "MCQuestion",
+            "text": "17956 24025 ? + =",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Bank P.O., 2008",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "19",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "155",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "256",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "289",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.6",
+            "type": "MCQuestion",
+            "text": "44944 52441 ? + =",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Bank P.O., 2008",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "17",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "312",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "441",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "485",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.7",
+            "type": "MCQuestion",
+            "text": "One-fourth of the sum of prime numbers, greater than 4 but less than 16, is the square of",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "P.C.S., 2009",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "4",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "5",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "7",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.8",
+            "type": "MCQuestion",
+            "text": "The value of 10 25 108 154 225 ++ + + is",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "4",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "6",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "8",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "10",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.9",
+            "type": "MCQuestion",
+            "text": "Evaluate 41 21 19 9 . – + –",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "5",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "6",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "6.4",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.10",
+            "type": "MCQuestion",
+            "text": "176 2401 + is equal to",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "14",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "15",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "18",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "24",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.11",
+            "type": "MCQuestion",
+            "text": "196 441 120 ? \n7 7 225\n××=",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "R.R.B., 2008",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "48",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "54",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "58",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "84",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.12",
+            "type": "MCQuestion",
+            "text": "225 ÷ 25 - 16 ÷ 729 ÷ 144 ÷ 81 = ?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1/48",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "5/48",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "5/16",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "None of these",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.13",
+            "type": "MCQuestion",
+            "text": "(15)^2 + (18)^2 - 20 = ?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Bank P.O., 2006",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "22",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "23",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "529",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "279841",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.14",
+            "type": "MCQuestion",
+            "text": "? × 484 = 1034",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "L.I.C.A.D.O., 2007",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2025",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2209",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2304",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2401",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.15",
+            "type": "MCQuestion",
+            "text": "11881 ÷ ? = 10137",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Bank Recruitment, 2008",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "8281",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "8649",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "9216",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "9409",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.16",
+            "type": "MCQuestion",
+            "text": "In the equation 4050 ÷ 450, x = the value of x is",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "L.I.C.A.D.O., 2008",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "9",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "49",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "81",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "100",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.17",
+            "type": "MCQuestion",
+            "text": "16 × ? × 256 = 25 × 25 × 25 × 625",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "R.R.B., 2008",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "5",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "8",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "16",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "None of these",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.18",
+            "type": "MCQuestion",
+            "text": "The square root of (2722 – 1282) is",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "144",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "200",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "240",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "256",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.19",
+            "type": "MCQuestion",
+            "text": "If x * y = x + y + xy, the value of 6 * 24 is",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "41",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "42",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "43",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "44",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.20",
+            "type": "MCQuestion",
+            "text": "If y = 5, then what is the value of 3y^2 - 2y - 10?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "50/2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "100",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "200/5",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "500",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.21",
+            "type": "MCQuestion",
+            "text": "1 110 ? 4 =",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "10.25",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "10.5",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "11.5",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "19.5",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.22",
+            "type": "MCQuestion",
+            "text": "25 1 ? 81 9 − =",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Hotel Management, 2002",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2/3",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "4/9",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "16/81",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "25/81",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.23",
+            "type": "MCQuestion",
+            "text": "(2^2 × 2^2) [(81)^2] (?) =",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Specialist Officers, 2006",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "8",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "9",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "4096",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "6561",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.24",
+            "type": "MCQuestion",
+            "text": "The digit in the unit’s place in the square root of 15876 is",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "4",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "6",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "8",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.25",
+            "type": "MCQuestion",
+            "text": "Which of the following is closest to √3?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "S.S.C., 2005",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1.69",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "173/100",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1.75",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "9/5",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.26",
+            "type": "MCQuestion",
+            "text": "How many two-digit numbers satisfy this property: The last digit (unit’s digit) of the square of the two-digit number is 8?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "None of these",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.27",
+            "type": "MCQuestion",
+            "text": "What percentage of the numbers from 1 to 50 have squares that end in the digit 1?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "M.B.A., 2006",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "5",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "10",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "11",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.28",
+            "type": "MCQuestion",
+            "text": "While solving a mathematical problem, Samidha squared a number and then subtracted 25 from it rather than the required i.e., first subtracting 25 from the number and then squaring it. But she got the right answer. What was the given number?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Bank P.O., 2006",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "13",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "38",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "48",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "Cannot be determined",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.29",
+            "type": "MCQuestion",
+            "text": "How many perfect squares lie between 120 and 300?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "S.S.C., 2010",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "5",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "6",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "7",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "8",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.30",
+            "type": "MCQuestion",
+            "text": "The number of perfect square numbers between 50 and 1000 is",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Section Officers’, 2003",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "21",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "22",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "23",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "24",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.31",
+            "type": "MCQuestion",
+            "text": "A man born in the first half of the nineteenth century was x years old in the year x². He was born in:",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "M.B.A., 2011",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1806",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1812",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1825",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1836",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.32",
+            "type": "MCQuestion",
+            "text": "R is a positive number. It is multiplied by 8 and then squared. The square is now divided by 4 and the square root is taken. The result of the square root is Q. What is the value of Q?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "SNAP, 2010",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3R",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "4R",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "7R",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "9R",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.33",
+            "type": "MCQuestion",
+            "text": "The smallest natural number which is a perfect square and which ends in 3 identical digits lies between:",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "N/A",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1000 and 2000",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2000 and 3000",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3000 and 4000",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "4000 and 5000",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.34",
+            "type": "MCQuestion",
+            "text": "2(1 + √2/2) is equal to:",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "S.S.C., 2005",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 + √2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 + √3",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 + √4",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 + √5",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.35",
+            "type": "MCQuestion",
+            "text": "If the product of four consecutive natural numbers increased by a natural number p, is a perfect square, then the value of p is:",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "C.P.O., 2006",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "4",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "8",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.36",
+            "type": "MCQuestion",
+            "text": "What is the square root of 0.16?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "N/A",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "0.004",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "0.04",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "0.4",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "4",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.37",
+            "type": "MCQuestion",
+            "text": "The value of √0.000441 is:",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "S.S.C., 2002",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "0.00021",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "0.0021",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "0.021",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "0.21",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.38",
+            "type": "MCQuestion",
+            "text": "0.00004761 equals:",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "C.B.I., 2003",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "0.00069",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "0.0069",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "0.0609",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "0.069",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.39",
+            "type": "MCQuestion",
+            "text": "2 × √1.5 × √0.0225 = ?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Bank P.O., 2002",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "0.0375",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "0.3375",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3.275",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "32.75",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.5.S.40",
+            "type": "MCQuestion",
+            "text": "√0.01 + √0.0064 = ?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "N/A",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Square Roots and Cube Roots",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "0.03",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "0.3",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "0.42",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "None of these",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

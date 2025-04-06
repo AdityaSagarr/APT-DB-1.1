@@ -1,0 +1,1924 @@
+{
+    "questions": [
+        {
+            "id": "M.2.12.S.1",
+            "type": "MCQuestion",
+            "text": "Mr Kashyap purchased an air conditioner for ₹12000 and sold it for ₹15000. What was the profit percentage?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Bank Recruitment, 2010",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "15%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "20%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "25%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "35%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.2",
+            "type": "MCQuestion",
+            "text": "In terms of percentage profit, which is the best transaction?\nC.P. (in ₹)\tProfit (in ₹)\n(a) 36, 17\n(b) 50, 24\n(c) 40, 19\n(d) 60, 29",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "36, 17",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "50, 24",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "40, 19",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "60, 29",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.3",
+            "type": "MCQuestion",
+            "text": "If books bought at prices ranging from ₹200 to ₹350 are sold at prices ranging from ₹300 to ₹425, what is the greatest possible profit that might be made in selling eight books?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹400",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹600",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "Cannot be determined",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "None of these",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.4",
+            "type": "MCQuestion",
+            "text": "A shopkeeper bought an article for ₹2090.42. Approximately, what will be the percentage profit if he sold that article for ₹2602.58?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "15%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "20%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "25%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "30%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.5",
+            "type": "MCQuestion",
+            "text": "The cost price of an article is ₹7840. What should be the selling price of the article so that there is a profit of 7%?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "R.R.B., 2008",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹8000",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹8300",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹8388.80",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹8500.50",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.6",
+            "type": "MCQuestion",
+            "text": "Rakesh purchased a mobile phone for ₹5400 and a refrigerator for ₹9600. He sold the mobile phone at three-fourths of its cost price and the refrigerator at 1 1/3 of its cost price. What was the profit/loss?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Bank Recruitment, 2010",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹1580",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹1750",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹1850",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹1870",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.7",
+            "type": "MCQuestion",
+            "text": "Rajni purchased a mobile phone and a refrigerator for ₹12000 and ₹10000 respectively. She sold the refrigerator at a loss of 12 percent and the mobile phone at a profit of 8 percent. What is her overall loss/profit?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Bank P.O., 2010",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "Loss of ₹280",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "Loss of ₹240",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "Profit of ₹2060",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "Profit of ₹2160",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.8",
+            "type": "MCQuestion",
+            "text": "Mohanlal purchased a TV set for ₹12500 and spent ₹300 on transportation and ₹800 on installation. At what price should he sell it so as to earn an overall profit of 15%?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Specialist Officers, 2009",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹14375",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹14560",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹15375",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹15460",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.9",
+            "type": "MCQuestion",
+            "text": "Harshad bought 15 pieces of DVD players @ ₹4500 each and sold all of them at the total price of ₹81000. What is the percent profit earned in the deal?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Bank P.O., 2009",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2 16/3",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "20",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 20/2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "25",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.10",
+            "type": "MCQuestion",
+            "text": "Alfred buys an old scooter for ₹4700 and spends ₹800 on its repairs. If he sells the scooter for ₹5800, his gain percent is",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "4 4/7%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "5 5/11%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "10%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "12%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.11",
+            "type": "MCQuestion",
+            "text": "A shopkeeper purchased 70 kg of potatoes for ₹420 and sold the whole lot at the rate of ₹6.50 per kg. What will be his gain percent?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "S.S.C., 2007",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 4/6%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 6/4%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 8/3%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "20%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.12",
+            "type": "MCQuestion",
+            "text": "Sam purchased 20 dozens of toys at the rate of ₹375 per dozen. He sold each one of them at the rate of ₹33. What was his percentage profit?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3.5%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "4.5%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "5.6%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "6.5%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.13",
+            "type": "MCQuestion",
+            "text": "100 oranges are bought at the rate of ₹350 and sold at the rate of ₹48 per dozen. The percentage of profit or loss is:",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "B.Ed Entrance, 2008",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2 14/7% gain",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "15% gain",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2 14/7% loss",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "15% loss",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.14",
+            "type": "MCQuestion",
+            "text": "A sells an article which costs him ₹400 to B at a profit of 20%. B then sells it to C, making a profit of 10% on the price he paid to A. How much does C pay B?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹472",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹476",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹528",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹532",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.15",
+            "type": "MCQuestion",
+            "text": "By selling an article for ₹100, a man gains ₹15. Then, his gain % is:",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "R.R.B., 2010",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "15%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2 12/3%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "11 17/17%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 17/4%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.16",
+            "type": "MCQuestion",
+            "text": "A trader buys some goods for ₹150. If the overhead expenses be 12% of cost price, then at what price should it be sold to earn 10%?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "R.R.B., 2007",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹184.80",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹185.80",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹187.80",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹188.80",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.17",
+            "type": "MCQuestion",
+            "text": "A man buys 10 articles for ₹8 and sells them at the rate of ₹1.25 per article. His profit is:",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 19/2%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "20%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "50%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 56/4%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.18",
+            "type": "MCQuestion",
+            "text": "If an article is sold at 200 percent profit, then the ratio of its cost price to its selling price will be:",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "S.S.C., 2010",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 : 2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2 : 1",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 : 3",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3 : 1",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.19",
+            "type": "MCQuestion",
+            "text": "If the ratio of cost price and selling price of an article be 10 : 11, the percentage of profit is:",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "S.S.C., 2010",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "8%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "10%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "11%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "15%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.20",
+            "type": "MCQuestion",
+            "text": "A trader sells an article and loses 1 12/2%. The ratio of cost price to the selling price is:",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Hotel Management, 2007",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "7 : 8",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "9 : 8",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "8 : 7",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "8 : 9",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.21",
+            "type": "MCQuestion",
+            "text": "A person buys an article for p and sells it for q thereby gaining r%. The selling price in terms of cost price may be written as (R.R.B., 2005)",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "R.R.B., 2005",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "100 pr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "(100 + r)p / 100",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "(100)p / (100 + r)",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "(100 – r)p / 100",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.22",
+            "type": "MCQuestion",
+            "text": "The owner of a furniture shop charges his customer 28% more than the cost price. If a customer paid ₹23680 for a dining table set, then what was the original price of the dining set?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Bank Recruitment, 2009",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹15700",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹16250",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹17500",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹18500",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.23",
+            "type": "MCQuestion",
+            "text": "A gold bracelet is sold for ₹14500 at a loss of 20%. What is the cost price of the gold bracelet? (Bank Recruitment, 2007)",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Bank Recruitment, 2007",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹15225",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹16800",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹17400",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹18125",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.24",
+            "type": "MCQuestion",
+            "text": "A shopkeeper expects a gain of 1 22 % on his cost price. If in a week, his sale was of ₹392, what was his profit?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹18.20",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹70",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹72",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹88.25",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.25",
+            "type": "MCQuestion",
+            "text": "The sale price of an article including the sales tax is ₹616. The rate of sales tax is 10%. If the shopkeeper has made a profit of 12%, then the cost price of the article is",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹500",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹515",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹550",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹600",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.26",
+            "type": "MCQuestion",
+            "text": "A shopkeeper buys 144 eggs at 90 paise each. On the way, 20 eggs were broken. He sold the remaining eggs at ₹1.20 each. The percentage gain or loss is (R.R.B., 2006)",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "R.R.B., 2006",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "4.8% loss",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "8.5% loss",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "12.9% gain",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "14.8% gain",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.27",
+            "type": "MCQuestion",
+            "text": "Abhishek purchased 140 shirts and 250 trousers at ₹450 and ₹550 respectively. He sold each shirt for ₹540 and each trouser for ₹600. Find his overall profit percentage.",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "20%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "18%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "15%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "12%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.28",
+            "type": "MCQuestion",
+            "text": "A person purchased 10 dozen pens at the rate of ₹4 per dozen. On checking, he found that 20 pens were not working. In order to earn 25% profit, he should sell the remaining pens each at (P.C.S., 2008)",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "P.C.S., 2008",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "40 paise",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "44 paise",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "50 paise",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "55 paise",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.29",
+            "type": "MCQuestion",
+            "text": "Saransh purchased 120 reams of paper at ₹80 per ream. He spent ₹280 on transportation, paid octroi at the rate of 40 paise per ream and paid ₹72 to the coolie. If he wants to have a gain of 8%, what must be the selling price per ream?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹86",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹87.48",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹89",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹90",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.30",
+            "type": "MCQuestion",
+            "text": "A person bought 20 litres of milk at the rate of ₹8 per litre. He got it churned after spending ₹10 and 5 kg of cream and 20 litres of toned milk were obtained. If he sold the cream at ₹30 per kg and toned milk at ₹4 per litre, his profit in the transaction is",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "25%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "35.3%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "37.5%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "42.5%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.31",
+            "type": "MCQuestion",
+            "text": "Jacob bought a scooter for a certain sum of money. He spent 10% of the cost on repairs and sold the scooter for a profit of ₹1100. How much did he spend on repairs if he made a profit of 20%?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹400",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹440",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹500",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹550",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.32",
+            "type": "MCQuestion",
+            "text": "A manufacturer undertakes to supply 2000 pieces of a particular component at ₹25 per piece. According to his estimates, even if 5% fail to pass the quality tests, then he will make a profit of 25%. However, as it turned out, 50% of the components were rejected. What is the loss to the manufacturer? (M.A.T., 2003)",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "M.A.T., 2003",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹12,000",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹13,000",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹14,000",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹15,000",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.33",
+            "type": "MCQuestion",
+            "text": "Ronit and Vinit purchased a scooter for ₹25000 and sold the same for ₹26250. If at the time of purchase Ronit paid 1 1/2 times as much as Vinit, how much did Vinit receive out of profit? (P.C.S., 2004)",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "P.C.S., 2004",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹400",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹500",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹600",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹700",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.34",
+            "type": "MCQuestion",
+            "text": "A trader buys a chair for ₹600 and sells it for ₹765 at a credit of 4 months. Reckoning money worth 6% p.a., his gain percent is",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "20%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "22.5%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "25%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "27.5%",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.35",
+            "type": "MCQuestion",
+            "text": "By selling a bicycle for ₹2850, a shopkeeper gains 14%. If the profit is reduced to 8%, then the selling price will be (S.S.C., 2010)",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "S.S.C., 2010",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹2600",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹2700",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹2800",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹3000",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.36",
+            "type": "MCQuestion",
+            "text": "When a plot is sold for ₹18,700, the owner loses 15%. At what price must the plot be sold in order to gain 15%? (A.A.O. Exam, 2003)",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "A.A.O. Exam, 2003",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹21,000",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹22,500",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹25,300",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹25,800",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.37",
+            "type": "MCQuestion",
+            "text": "A fruitseller sells mangoes at the rate of ₹9 per kg and thereby loses 20%. At what price per kg, he should have sold them to make a profit of 5%?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹11.81",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹12",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹12.25",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "₹12.31",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.38",
+            "type": "MCQuestion",
+            "text": "Raju purchased an item for ₹8200 and sold it at a gain of 25%. From that amount he purchased another item and sold it at a loss of 20%. What is his overall gain/loss? (Bank Recruitment, 2010)",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Bank Recruitment, 2010",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "Loss of ₹120",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "Gain of ₹120",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "Loss of ₹140",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "Neither loss nor gain",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.39",
+            "type": "MCQuestion",
+            "text": "A property dealer sells a house for ₹6,30,000 and in the bargain makes a profit of 5%. Had he sold it for ₹5,00,000, then what percentage of loss or gain he would have made?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1/2% gain",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "10% loss",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 1/2% loss",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2 1/6% loss",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.2.12.S.40",
+            "type": "MCQuestion",
+            "text": "A shopkeeper sells one transistor for ₹840 at a gain of 20% and another for ₹960 at a loss of 4%. His total gain or loss percent is",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Algebra and Quantitative Aptitude",
+            "chapter": "Profit and Loss",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "15 5/17% loss",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "15 5/17% gain",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2 6/3% gain",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "None of these",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

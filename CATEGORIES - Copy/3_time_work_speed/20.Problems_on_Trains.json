@@ -1,0 +1,1924 @@
+{
+    "questions": [
+        {
+            "id": "M.3.20.S.1",
+            "type": "MCQuestion",
+            "text": "A train moves with a speed of 108 kmph. Its speed in metres per second is",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "10.8 m/sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "18 m/sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "30 m/sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "38.8 m/sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.2",
+            "type": "MCQuestion",
+            "text": "A speed of 14 metres per second is the same as",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "28 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "46.6 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "50.4 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "70 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.3",
+            "type": "MCQuestion",
+            "text": "A man sitting in a train is counting the pillars of electricity. The distance between two pillars is 60 metres, and the speed of the train is 42 km/hr. In 5 hours, how many pillars will he count?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "R.R.B., 2009",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3501",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3600",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3800",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "None of these",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.4",
+            "type": "MCQuestion",
+            "text": "In what time will a train 100 metres long cross an electric pole, if its speed be 144 km/hr?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2.5 seconds",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "4.25 seconds",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "5 seconds",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "12.5 seconds",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.5",
+            "type": "MCQuestion",
+            "text": "A train 280 m long, running with a speed of 63 km/hr will pass a tree in:",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "15 sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "16 sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "18 sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "20 sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.6",
+            "type": "MCQuestion",
+            "text": "A 100 m long train is going at a speed of 60 km/hr. It will cross a 140 m long railway bridge in",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "G.I.C., 2009",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3.6 sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "7.2 sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "14.4 sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "21.6 sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.7",
+            "type": "MCQuestion",
+            "text": "A 120 metre long train is running at a speed of 90 km/hr. It will cross a railway platform 230 m long in",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "S.S.C., 2005",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "4 4 seconds",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "5 7 seconds",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 9 seconds",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "14 seconds",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.8",
+            "type": "MCQuestion",
+            "text": "A train travelling at a speed of 75 mph enters a tunnel 1 3/2 miles long. The train is 1/4 mile long. How long does it take for the train to pass through the tunnel from the moment the front enters to the moment the rear emerges?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2.5 min",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3 min",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3.2 min",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3.5 min",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.9",
+            "type": "MCQuestion",
+            "text": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "120 metres",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "180 metres",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "324 metres",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "Cannot be determined",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.10",
+            "type": "MCQuestion",
+            "text": "A train 132 m long passes a telegraph pole in 6 seconds. Find the speed of the train.",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "70 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "72 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "79.2 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "80 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.11",
+            "type": "MCQuestion",
+            "text": "A train covers a distance of 12 km in 10 minutes. If it takes 6 seconds to pass a telegraph post, then the length of the train is",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "90 m",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "100 m",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "120 m",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "140 m",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.12",
+            "type": "MCQuestion",
+            "text": "A train 240 m long passed a pole in 24 seconds. How long will it take to pass a platform 650 m long?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "65 sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "89 sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "100 sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "150 sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.13",
+            "type": "MCQuestion",
+            "text": "A 50-metre long train passes over a bridge at the speed of 30 km per hour. If it takes 36 seconds to cross the bridge, what is the length of the bridge?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "P.C.S., 2009",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "200 metres",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "250 metres",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "300 metres",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "350 metres",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.14",
+            "type": "MCQuestion",
+            "text": "A train takes 5 minutes to cross a telegraphic post. Then the time taken by another train whose length is just double of the first train and moving with same speed to cross a platform of its own length is",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Hotel Management, 2007",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "10 minutes",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "15 minutes",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "20 minutes",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "Data inadequate",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.15",
+            "type": "MCQuestion",
+            "text": "The length of the bridge, which a train 130 metres long and travelling at 45 km/hr can cross in 30 seconds, is",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "200 m",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "225 m",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "245 m",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "250 m",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.16",
+            "type": "MCQuestion",
+            "text": "A train 800 metres long is running at a speed of 78 km/hr. If it crosses a tunnel in 1 minute, then the length of the tunnel (in metres) is :",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "130",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "360",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "500",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "540",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.17",
+            "type": "MCQuestion",
+            "text": "A train running at the speed of 60 kmph crosses a 200 m long platform in 27 seconds. What is the length of the train?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Bank Recruitment, 2009",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "200 metres",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "240 metres",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "250 metres",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "450 metres",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.18",
+            "type": "MCQuestion",
+            "text": "A train running at a speed of 90 km/hr crosses a platform double its length in 36 seconds. What is the length of the platform in metres?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Bank Recruitment, 2007",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "200",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "300",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "450",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "Cannot be determined",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.19",
+            "type": "MCQuestion",
+            "text": "A train of length 150 metres takes 40.5 seconds to cross a tunnel of length 300 metres. What is the speed of the train in km/hr?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "13.33",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "26.67",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "40",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "66.67",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.20",
+            "type": "MCQuestion",
+            "text": "A 280-metre long train crosses a platform thrice its length in 50 seconds. What is the speed of the train in km/hr?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "M.B.A.–C.E.T., 2008",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "60.48",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "64.86",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "80.64",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "82.38",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.21",
+            "type": "MCQuestion",
+            "text": "A train passes a station platform in 36 seconds and a man standing on the platform in 20 seconds. If the speed of the train is 54 km/hr, what is the length of the platform?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "M.A.T., 2008",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "225 m",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "240 m",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "230 m",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "235 m",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.22",
+            "type": "MCQuestion",
+            "text": "Train A crosses a stationary train B in 50 seconds and a pole in 20 seconds with the same speed. The length of the train A is 240 metres. What is the length of the stationary train B?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Bank. P.O., 2010",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "260 metres",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "300 metres",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "360 metres",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "Cannot be determined",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.23",
+            "type": "MCQuestion",
+            "text": "A train speeds past a pole in 20 seconds and speeds past a platform 100 metres in length in 30 seconds. What is the length of the train?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Bank P.O., 2010",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "100 m",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "150 m",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "180 m",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "200 m",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.24",
+            "type": "MCQuestion",
+            "text": "A train crosses a platform 100 m long in 60 seconds at a speed of 45 km/hr. The time taken by the train to cross an electric pole is:",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "8 sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "52 sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 minute",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "Data inadequate",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.25",
+            "type": "MCQuestion",
+            "text": "A train, 150 m long, takes 30 seconds to cross a bridge 500 m long. How much time will the train take to cross a platform 370 m long?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "S.S.C., 2007",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "18 sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "24 sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "30 sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "36 sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.26",
+            "type": "MCQuestion",
+            "text": "A train passes a platform 90 m long in 30 seconds and a man standing on the platform in 15 seconds. The speed of the train is",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "C.P.O., 2007",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "12.4 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "14.6 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "18.4 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "21.6 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.27",
+            "type": "MCQuestion",
+            "text": "A train running at a certain speed takes 20 seconds to cross a signal post and 50 seconds to cross a bridge. Which of the following statements is correct about the length of the bridge?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1.5 times the length of the train",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2.5 times the length of the train",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "30 metres more than the length of the train",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "Cannot be determined",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.28",
+            "type": "MCQuestion",
+            "text": "A train travelling with a constant speed crosses a 96-metre long platform in 12 seconds and another 141-metre long platform in 15 seconds. The length of the train and its speed are",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "R.R.B., 2006",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "84 metres and 54 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "64 metres and 44 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "64 metres and 54 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "84 metres and 60 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.29",
+            "type": "MCQuestion",
+            "text": "The time taken by a train 180 m long, travelling at 42 kmph, in passing a person walking in the same direction at 6 kmph, will be",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "S.S.C., 2005",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "18 sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "21 sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "24 sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "25 sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.30",
+            "type": "MCQuestion",
+            "text": "A train with 90 km/hr crosses a bridge in 36 seconds. Another train 100 metres shorter crosses the same bridge at 45 km/hr. What is the time taken by the second train to cross the bridge?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "M.A.T., 2006",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "61 seconds",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "62 seconds",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "63 seconds",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "64 seconds",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.31",
+            "type": "MCQuestion",
+            "text": "A jogger running at 9 kmph alongside a railway track is 240 metres ahead of the engine of a 120 metre long train running at 45 kmph in the same direction. In how much time will the train pass the jogger?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3.6 sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "18 sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "36 sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "72 sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.32",
+            "type": "MCQuestion",
+            "text": "A train 110 metres long is running with a speed of 60 kmph. In what time will it pass a man who is running at 6 kmph in the direction opposite to that in which the train is going?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "M.A.T., 2002",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "5 sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "6 sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "7 sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "10 sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.33",
+            "type": "MCQuestion",
+            "text": "Two trains 200 metres and 150 metres long are running on parallel rails in the same direction at speeds of 40 km/hr and 45 km/hr respectively. Time taken by the faster train to cross the slower train will be",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "P.C.S., 2009",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "72 seconds",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "132 seconds",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "192 seconds",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "252 seconds",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.34",
+            "type": "MCQuestion",
+            "text": "Two trains A and B start running together from the same point in the same direction, at the speeds of 60 kmph and 72 kmph respectively. If the length of each of the trains is 240 metres, how long will it take for train B to cross train A?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Bank P.O., 2005",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 min 12 secs",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 min 24 secs",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2 min 12 secs",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2 min 24 secs",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.35",
+            "type": "MCQuestion",
+            "text": "Two trains are moving in opposite directions @ 60 km/hr and 90 km/hr. Their lengths are 1.10 km and 0.9 km respectively. The time taken by the slower train to cross the faster train in seconds is",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "M.B.A., 2002",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "36",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "45",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "48",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "49",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.36",
+            "type": "MCQuestion",
+            "text": "Two trains of lengths 120 m and 90 m are running with speeds of 80 km/hr and 55 km/hr respectively towards each other on parallel lines. If they are 90 m apart, after how many seconds will they cross each other?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Hotel Management, 2010",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "5.6 sec.",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "7.2 sec.",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "8 sec.",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "9 sec.",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.37",
+            "type": "MCQuestion",
+            "text": "Two trains are coming from opposite directions with speeds of 75 km/hr and 100 km/hr on two parallel tracks. At some moment the distance between them is 100 km. After T hours, the distance between them is again 100 km. T is equal to",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "I.A.M., 2007",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 1/2 hrs",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2 hrs",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2 1/2 hrs",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.38",
+            "type": "MCQuestion",
+            "text": "A train 125 m long passes a man, running at 5 kmph in the same direction in which the train is going, in 10 seconds. The speed of the train is:",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "A.A.O. Exam., 2003",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "45 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "50 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "54 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "55 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.39",
+            "type": "MCQuestion",
+            "text": "A train 400 m long overtook a man walking along the line in the same direction as the train, at the rate of 5 kmph and passed him in 40 seconds. The train reached the station in 20 minutes after passing the man. In what time did the man reach the station?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2 hr 24 min",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2 hr 30 min 40 sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2 hr 36 min 48 sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2 hr 48 min 48 sec",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.20.S.40",
+            "type": "MCQuestion",
+            "text": "A train, 240 m long, crosses a man walking along the line in opposite direction at the rate of 3 kmph in 10 seconds. The speed of the train is",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "S.S.C., 2010",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Problems on Trains",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "63 kmph",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "75 kmph",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "83.4 kmph",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "86.4 kmph",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

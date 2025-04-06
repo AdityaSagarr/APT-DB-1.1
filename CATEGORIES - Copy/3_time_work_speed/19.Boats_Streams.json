@@ -1,0 +1,1732 @@
+{
+    "questions": [
+        {
+            "id": "M.3.19.S.1",
+            "type": "MCQuestion",
+            "text": "A boat goes 8 km in one hour along the stream and 2 km in one hour against the stream. The speed in km/hr of the stream is",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "S.S.C., 2005",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "4",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "5",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.2",
+            "type": "MCQuestion",
+            "text": "In one hour, a boat goes 11 km along the stream and 5 km against the stream. The speed of the boat in still water (in km/hr) is",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "B.Ed Entrance, 2009",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "5",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "8",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "9",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.3",
+            "type": "MCQuestion",
+            "text": "A man rows downstream 32 km and 14 km upstream. If he takes 6 hours to cover each distance, then the velocity (in kmph) of the current is",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "R.R.B., 2008",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1/2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 1/2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.4",
+            "type": "MCQuestion",
+            "text": "A boatman rows 1 km in 5 minutes, along the stream and 6 km in 1 hour against the stream. The speed of the stream is",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "S.S.C., 2010",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3 kmph",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "6 kmph",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "10 kmph",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "12 kmph",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.5",
+            "type": "MCQuestion",
+            "text": "A boat takes half time in moving a certain distance downstream than upstream. What is the ratio between the rate in still water and the rate of current?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "R.R.B., 2006",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 : 2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2 : 1",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 : 3",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3 : 1",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.6",
+            "type": "MCQuestion",
+            "text": "If a man goes 18 km downstream in 4 hours and returns against the stream in 12 hours, then the speed of the stream in km/hr is",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "S.S.C., 2008",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1.5",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1.75",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.7",
+            "type": "MCQuestion",
+            "text": "A boatman goes 2 km against the current of the stream in 1 hour and goes 1 km along the current in 10 minutes. How long will it take to go 5 km in stationary water?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "40 minutes",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 hour",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 hr 15 min",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 hr 30 min",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.8",
+            "type": "MCQuestion",
+            "text": "A man can row 3/4 of a km against the stream in 1 11/4 minutes and returns in 1 7/2 minutes. Find the speed of the man in still water.",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "M.A.T., 2008",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "4 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "5 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "6 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.9",
+            "type": "MCQuestion",
+            "text": "A boat, while going downstream in a river covered a distance of 50 miles at an average speed of 60 miles per hour. While returning, because of the water resistance, it took 1 hour 15 minutes to cover the same distance. What was the average speed during the whole journey?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "M.A.T., 2004",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "40 mph",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "48 mph",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "50 mph",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "55 mph",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.10",
+            "type": "MCQuestion",
+            "text": "A man swimming in a stream which flows 1 1/2 km/hr finds that in a given time he can swim twice as far with the stream as he can against it. At what rate does he swim?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "M.A.T., 2008",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 4/2 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 5/2 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 7/2 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "None of these",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.11",
+            "type": "MCQuestion",
+            "text": "A boat running upstream takes 8 hours 48 minutes to cover a certain distance, while it takes 4 hours to cover the same distance running downstream. What is the ratio between the speed of the boat and speed of the water current respectively?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2 : 1",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3 : 2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "8 : 3",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "Cannot be determined",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.12",
+            "type": "MCQuestion",
+            "text": "If a boat goes 7 km upstream in 42 minutes and the speed of the stream is 3 kmph, then the speed of the boat in still water is:",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Bank Rec., 2010",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "4.2 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "9 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "13 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "21 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.13",
+            "type": "MCQuestion",
+            "text": "A man’s speed with the current is 15 km/hr and the speed of the current is 2.5 km/hr. The man’s speed against the current is:",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "8.5 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "9 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "10 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "12.5 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.14",
+            "type": "MCQuestion",
+            "text": "If a man rows at the rate of 5 kmph in still water and his rate against the current is 3.5 kmph, then the man’s rate along the current is:",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "4.25 kmph",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "6 kmph",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "6.5 kmph",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "8.5 kmph",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.15",
+            "type": "MCQuestion",
+            "text": "A motorboat in still water travels at a speed of 36 km/hr. It goes 56 km upstream in 1 hour 45 minutes. The time taken by it to cover the same distance down the stream will be:",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "C.P.O., 2007",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 hour 24 minutes",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2 hour 21 minutes",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2 hour 25 minutes",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3 hour",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.16",
+            "type": "MCQuestion",
+            "text": "Speed of a boat in standing water is 9 kmph and the speed of the stream is 1.5 kmph. A man rows to a place at a distance of 105 km and comes back to the starting point. The total time taken by him is:",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "16 hours",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "18 hours",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "20 hours",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "24 hours",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.17",
+            "type": "MCQuestion",
+            "text": "The speed of a boat in still water is 15 km/hr and the rate of current is 3 km/hr. The distance travelled downstream in 12 minutes is:",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1.2 km",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1.8 km",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2.4 km",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3.6 km",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.18",
+            "type": "MCQuestion",
+            "text": "A man can row at 5 kmph in still water. If the velocity of current is 1 kmph and it takes him 1 hour to row to a place and come back, how far is the place?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "S.S.C., 2004",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2.4 km",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2.5 km",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3 km",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3.6 km",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.19",
+            "type": "MCQuestion",
+            "text": "A boat takes 19 hours for travelling downstream from point A to point B and coming back to a point C midway between A and B. If the velocity of the stream is 4 kmph and the speed of the boat in still water is 14 kmph, what is the distance between A and B?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "160 km",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "180 km",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "200 km",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "220 km",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.20",
+            "type": "MCQuestion",
+            "text": "P, Q and R are three towns on a river which flows uniformly. Q is equidistant from P and R. I row from P to Q and back in 10 hours and I can row from P to R in 4 hours. Compare the speed of my boat in still water with that of the river.",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "M.A.T., 2005",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "4 : 3",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "5 : 3",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "6 : 5",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "7 : 3",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.21",
+            "type": "MCQuestion",
+            "text": "A man can row 9 kmph in still water and finds that it takes him thrice as much time to row up than as to row down the same distance in the river. The speed of the current is:",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 3 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 3 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2 4 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 4 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.22",
+            "type": "MCQuestion",
+            "text": "A boat takes 8 hours to cover a distance while travelling upstream, whereas while travelling downstream it takes 6 hours. If the speed of the current is 4 kmph, what is the speed of the boat in still water?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Bank P.O., 2006",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "12 kmph",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "16 kmph",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "28 kmph",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "Cannot be determined",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.23",
+            "type": "MCQuestion",
+            "text": "A motor boat can travel at 10 km/hr in still water. It travelled 91 km downstream in a river and then returned, taking altogether 20 hours. Find the rate of flow of the river.",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "M.A.T., 2008",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "5 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "6 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "8 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.24",
+            "type": "MCQuestion",
+            "text": "The speed of a boat in still water is 10 km/hr. If it can travel 26 km downstream and 14 km upstream in the same time, the speed of the stream is:",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2.5 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "4 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.25",
+            "type": "MCQuestion",
+            "text": "A boat takes 90 minutes less to travel 36 miles downstream than to travel the same distance upstream. If the speed of the boat in still water is 10 mph, the speed of the stream is:",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2 mph",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2.5 mph",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3 mph",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "4 mph",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.26",
+            "type": "MCQuestion",
+            "text": "A man rows to a place 48 km distant and back in 14 hours. He finds that he can row 4 km with the stream in the same time as 3 km against the stream. The rate of the stream is:",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "M.A.T., 2005",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1.5 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1.8 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3.5 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.27",
+            "type": "MCQuestion",
+            "text": "A boat covers 24 km upstream and 36 km downstream in 6 hours while it covers 36 km upstream and 24 km downstream in 16.5 hours. The velocity of the current is:",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1.5 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2.5 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.28",
+            "type": "MCQuestion",
+            "text": "A boat goes 30 km upstream and 44 km downstream in 10 hours. In 13 hours, it can go 40 km upstream and 55 km downstream. The speed of the boat in still water is:",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "I.I.F.T., 2008",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "4 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "8 km/hr",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "None of these",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.29",
+            "type": "MCQuestion",
+            "text": "At his usual rowing rate, Rahul can travel 12 miles downstream in a certain river in 6 hours less than it takes him to travel the same distance upstream. But if he could double his usual rowing rate for his 24-mile round trip, the downstream 12 miles would then take only one hour less than the upstream 12 miles. What is the speed of the current in miles per hour?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "M.A.T., 2001",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 1/3",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2 1/3",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 2/3",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2 2/3",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.30",
+            "type": "MCQuestion",
+            "text": "A man can swim in still water at a rate of 4 km/hr. The width of the river is 1 km. How long will he take to cross the river straight, if the speed of the current is 3 km/hr?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "R.R.B., 2009",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "10 min",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "15 min",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "18 min",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "20 min",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.31",
+            "type": "MCQuestion",
+            "text": "A man wishes to cross a river perpendicularly. In still water he takes 4 minutes to cross the river, but in flowing river he takes 5 minutes. If the river is 100 metres wide, the velocity of the flowing water of the river is",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "M.A.T., 2004",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "10 m/min",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "15 m/min",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "20 m/min",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "30 m/min",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.32",
+            "type": "MCQuestion",
+            "text": "A man can row upstream at 10 kmph and downstream at 18 kmph. Find the man’s rate in still water.",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Indian Railways Gr. ‘D’ Exam, 2014",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "14 kmph",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "4 kmph",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "12 kmph",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "10 kmph",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.33",
+            "type": "MCQuestion",
+            "text": "A man takes 2.2 times as long to row a distance upstream as to row the same distance downstream. If he can row 55 km downstream in 2 hours 30 minutes, what is the speed of the boat in still water?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "IBPS—RRB Officers Gr. ‘B’ Exam, 2015",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "40 km/h",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "8 km/h",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "16 km/h",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "24 km/h",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.34",
+            "type": "MCQuestion",
+            "text": "Boat A travels downstream from Point X to Point Y in 3 hours less than the time taken by Boat B to travel upstream from Point Y to Point Z. The distance between X and Y is 20 km, which is half of the distance between Y and Z. The speed of Boat B in still water is 10 km/h and the speed of Boat A in still water is equal to the speed of Boat B upstream. What is the speed of Boat A in still water? (Consider the speed of the current to be the same.)",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "RBI Gr. ‘B’ (Phase I) Exam, 2015",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "10 km/h",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "16 km/h",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "12 km/h",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "8 km/h",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.35",
+            "type": "MCQuestion",
+            "text": "The speed of the boat in still water is 5 times that of the current. It takes 1.1 hours to row to Point B from Point A downstream. The distance between Point A and Point B is 13.2 km. How much distance (in km) will it cover in 312 minutes upstream?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "IBPS—Bank Spl. Officer (IT) Exam, 2015",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "43.2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "48",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "41.6",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "44.8",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.3.19.S.36",
+            "type": "MCQuestion",
+            "text": "A boat can travel 36 km upstream in 5 hours. If the speed of the stream is 2.4 kmph, how much time will the boat take to cover a distance of 78 km downstream? (in hours)",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "United India Insurance Co. Ltd. (UIICL) Assistant (Online) Exam, 2015",
+            "difficulty": "EASY",
+            "topic": "Time & Work / Distance & Speed",
+            "chapter": "Boats and Streams",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "5",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "6.5",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "5.5",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "8",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

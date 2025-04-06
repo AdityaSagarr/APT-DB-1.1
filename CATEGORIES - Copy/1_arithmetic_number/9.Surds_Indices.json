@@ -1,0 +1,1924 @@
+{
+    "questions": [
+        {
+            "id": "M.1.9.S.1",
+            "type": "MCQuestion",
+            "text": "3 5 is a surd of the order",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "R.R.B., 2008",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "4",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.2",
+            "type": "MCQuestion",
+            "text": "50 × 8 =?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "R.R.B., 2006",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "0",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "8",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "40",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "200",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.3",
+            "type": "MCQuestion",
+            "text": "Which of the following are equal in value? I. 41 II. 14 III. 40 IV. 04",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "I and II",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "II and III",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "III and IV",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "I and IV",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.4",
+            "type": "MCQuestion",
+            "text": "If 289 = 1/5 × 17, x then x =?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Bank P.O., 2009",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "8",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "16",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "32",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.5",
+            "type": "MCQuestion",
+            "text": "(81)4 ÷ (9)5 =?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Agriculture Officers', 2009",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "9",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "81",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "729",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "6561",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.6",
+            "type": "MCQuestion",
+            "text": "The value of (2/4) × (16/9) × (18/3) is?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "R.R.B., 2006",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3/2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "4/9",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "16/81",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "32/243",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.7",
+            "type": "MCQuestion",
+            "text": "[43 × 54] ÷ 45 =?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Bank Recruitment, 2008",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "29.0825",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "30.0925",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "35.6015",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "39.0625",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.8",
+            "type": "MCQuestion",
+            "text": "93 × 62 ÷ 33 =?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "L.I.C.A.D.O., 2007",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "948",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "972",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "984",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1012",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.9",
+            "type": "MCQuestion",
+            "text": "(19)12 × (19)8 ÷ (19)4 = (19)?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Bank Recruitment, 2008",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "6",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "8",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "12",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "24",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.10",
+            "type": "MCQuestion",
+            "text": "(64)4 ÷ (8)5 =?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Agriculture Officer’s, 2008",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "(8)8",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "(8)2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "(8)12",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "(8)4",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.11",
+            "type": "MCQuestion",
+            "text": "(1000)12 ÷ (10)30 =?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Bank P.O., 2008",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "(1000)2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "10",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "100",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "(100)2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.12",
+            "type": "MCQuestion",
+            "text": "(3)8 × (3)4 =?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Bank P.O., 2009",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "(27)3",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "(27)5",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "(729)2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "(729)3",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.13",
+            "type": "MCQuestion",
+            "text": "343 49 × 216 16 81 =?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Bank P.O., 2010",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "5 7 7 6",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "5 8 7 6",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "6 7 7 6",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "4 8 7 6",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.14",
+            "type": "MCQuestion",
+            "text": "16 32 × 9 27 81 =?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Bank P.O., 2009",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "9 2 3",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "11 2 3",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "12 2 3",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "13 2 3",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.15",
+            "type": "MCQuestion",
+            "text": "93 × (81)2 ÷ (27)3 = (3)?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Bank P.O., 2010",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "4",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "5",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "6",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.16",
+            "type": "MCQuestion",
+            "text": "(6)4 ÷ (36)3 × 216 = 6(? – 5)",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Bank Recruitment, 2010",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "4",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "6",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "7",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.17",
+            "type": "MCQuestion",
+            "text": "Of these, which one is the greatest? (0.2)2, 0.008, (0.01), (0.25)",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "P.C.S., 2004",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1/3 (0.008)",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1/2 (0.01)",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "(0.2)2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1/100",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.18",
+            "type": "MCQuestion",
+            "text": "Which of the following expressions has the greatest value?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "[(2–1)0]2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2 1 0 2 (4)",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "[(2–2)–1]2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "[(2–1)2]2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.19",
+            "type": "MCQuestion",
+            "text": "(10)24 × (10)–21 =?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Bank Recruitment, 2008",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "10",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "100",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1000",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.20",
+            "type": "MCQuestion",
+            "text": "The value of 5 4 (256) is",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "512",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "984",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1024",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1032",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.21",
+            "type": "MCQuestion",
+            "text": "The value of 1/3 (8) is",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "4",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "8",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.22",
+            "type": "MCQuestion",
+            "text": "The value of 4/32 * 5 * 243 is",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "4/9",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "9/4",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "16/81",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "81/16",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.23",
+            "type": "MCQuestion",
+            "text": "The value of 2/1 * 3/216 is",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "36",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "-36",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1/36",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "-1/36",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.24",
+            "type": "MCQuestion",
+            "text": "The value of 2/3 * 27 lies between",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "C.D.S., 2002",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "0 and 1",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1 and 2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2 and 3",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3 and 4",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.25",
+            "type": "MCQuestion",
+            "text": "The value of 3 * 4 * 56 * 22 * 2 is",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "S.S.C., 2005",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "5/3 * 2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "25",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.26",
+            "type": "MCQuestion",
+            "text": "22222 ? =",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "R.R.B., 2007",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "29/31 * 2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "31/32 * 2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "9/2 * 2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "11/2 * 2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.27",
+            "type": "MCQuestion",
+            "text": "The value of 2/5 (0.03125) is",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "R.R.B., 2006",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "4",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "9",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "12",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "31.25",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.28",
+            "type": "MCQuestion",
+            "text": "1/1 2 * 2 is equal to",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Section Officer's, 2005",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1/2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2 2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "-2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.29",
+            "type": "MCQuestion",
+            "text": "Simplified form of 5 5 * 3 3 5 * 5 x",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "S.S.C., 2010",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1/x",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "x",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "x - 5",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "x5",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.30",
+            "type": "MCQuestion",
+            "text": "What will come in place of both the question marks in the following question?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "Bank Recruitment, 2010",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "10",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "10 2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "20",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "20 (e)",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.31",
+            "type": "MCQuestion",
+            "text": "The value of 1/4 * 0.25 * 5 (125) × is :",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "5",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "5",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "5 5",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "25",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.32",
+            "type": "MCQuestion",
+            "text": "The value of 2/31 * 3/45 * 1/11 (216) (256) (32) − −− + is",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "M.B.A., 2003",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "102",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "105",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "107",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "109",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.33",
+            "type": "MCQuestion",
+            "text": "(2.4 × 10^3) ÷ (8 × 10^–2) =?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3 × 10^–5",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3 × 10^4",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3 × 10^5",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "30",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.34",
+            "type": "MCQuestion",
+            "text": "2/4 * 1/1 * 3/3 ? 216/27",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3/4",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2/3",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "4/9",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1/8",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.35",
+            "type": "MCQuestion",
+            "text": "2/55 * 7/77 (48) (16) (3) ? − −− × × =",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "P.C.S., 2008",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1/3",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1/48",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "48",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.36",
+            "type": "MCQuestion",
+            "text": "If 10x = 1, 2 then 10^–8x =?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "P.C.S., 2008",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1/256",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "16",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "80",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "256",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.37",
+            "type": "MCQuestion",
+            "text": "If 3/6 * 21 * 33 * 3 , 55 * 5 = x, then x is equal to",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "S.S.C., 2010",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "-2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "-1",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "2",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.38",
+            "type": "MCQuestion",
+            "text": "49 × 49 × 49 × 49 = 7?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "4",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "7",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "8",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "16",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.39",
+            "type": "MCQuestion",
+            "text": "The value of (8– 25 – 8– 26) is",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "7 × 8–25",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "7 × 8–26",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "8 × 8–26",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "None of these",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": "M.1.9.S.40",
+            "type": "MCQuestion",
+            "text": "1/4 * 2/5 * (64) * (32) − − − − =?",
+            "is_latex": false,
+            "is_image": false,
+            "image_url": null,
+            "latex_string": null,
+            "xp": 1,
+            "tag": "",
+            "difficulty": "EASY",
+            "topic": "Arithmetic and Number Theory",
+            "chapter": "Surds and Indices",
+            "option_list": [
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1/8",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3/8",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": true
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "1/16",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                },
+                {
+                    "is_image": false,
+                    "is_latex": false,
+                    "text": "3/16",
+                    "latex_string": null,
+                    "image_url": null,
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}
