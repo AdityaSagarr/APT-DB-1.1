@@ -4,6 +4,10 @@
 
 This repository contains categorized aptitude questions stored in Google Firestore. The structure is well-defined to support scalable and structured question storage, categorization, and querying.
 
+Note:
+- Per chapter 40 questions have been uploaded
+- As of now from Siple vs Latex type, Mainly Simple questions are inserted 
+
 ---
 
 ### 🧠 Question Data Structure
