@@ -6,7 +6,7 @@ This repository contains categorized aptitude questions stored in Google Firesto
 
 Note:
 - Per chapter 40 questions have been uploaded
-- As of now from Siple vs Latex type, Mainly Simple questions are inserted 
+- As of now from Simple vs Latex type, Simple questions are inserted 
 
 ---
 
@@ -177,5 +177,6 @@ def verify_firestore_data(limit=5):
 - The Firestore `document ID` matches the `question ID`.
 
 ---
-
-Would you like this in Markdown file format or want me to generate an actual `.md` file for download?
+For any queries connect me at
+- adityasagar@socialmistry.com
+- www.linkedin.com/in/adityasagarr
